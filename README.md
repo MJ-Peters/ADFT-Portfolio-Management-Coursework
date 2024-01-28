@@ -90,18 +90,18 @@ testing data and plotted the results. When applied to the raw test data, portfol
 to the equal weight index fund, which had a return of 22.99\%, a volatility of 11.19\%, and a Sharpe ratio of 2.05. Although in training portfolio 0 was the best in training, it was
 outperformed by an equal weight index and would, therefore, be considered ineffective.
 
-![Portfolio 0](./images/portfolio 1 (0).png)
+![Portfolio 0](https://github.com/MJ-Peters/DJ-and-FTSE-Portfolio-Management/blob/master/images/portfolio%201%20(0).png)
 
 Eigenportfolio 10, the second best eigenportfolio in training, was significantly outperformed by the equally weighted index fund in practice. It had a return of -18.84\%, a volatility
 of 67.71\%, and a Sharpe ratio of -0.28.
 
-![Portfolio 10](./images/portfolio 2 (10).png)
+![Portfolio 10](https://github.com/MJ-Peters/DJ-and-FTSE-Portfolio-Management/blob/master/images/portfolio%202%20(10).png)
 
 eigenportfolio 5, the third best eigenportfolio in training, was by far the best out of all three eigenportfolios considered. It had a return of 188.84\%, a volatility of 93.05\%, and
 a Sharpe ratio of 2.03. All this considered, it still had a lower Sharpe ratio than the equally weighted index fund meaning that, despite it having a huge amount of return in hindsight,
 without the future knowledge that this portfolio would perform well the portfolio that best maximises risk-adjusted returns was the equal weight index.
 
-![Portfolio 5](./images/portfolio 3 (5).png)
+![Portfolio 5](https://github.com/MJ-Peters/DJ-and-FTSE-Portfolio-Management/blob/master/images/portfolio%203%20(5).png)
 
 # Hierarchical Risk Parity
 
